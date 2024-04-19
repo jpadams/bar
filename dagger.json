@@ -1,0 +1,12 @@
+{
+  "name": "bar",
+  "sdk": "python",
+  "dependencies": [
+    {
+      "name": "foo",
+      "source": "github.com/jpadams/example-go-build-container@2e587334dd2b50cc66a50922380b14146b1ce215"
+    }
+  ],
+  "source": ".",
+  "engineVersion": "v0.11.1"
+}
